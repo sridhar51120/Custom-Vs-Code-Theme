@@ -1,0 +1,21 @@
+{
+  "name": "luminous-fortune",
+  "displayName": "Luminous Fortune",
+  "description": "The luminous-fortune theme is a visually striking and out-of-this-world custom theme for Visual Studio Code. It's designed to provide an immersive coding experience that takes you on a journey through the luminous-fortune while you write code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Luminous Fortune",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Luminous Fortune-color-theme.json"
+      }
+    ]
+  }
+}
