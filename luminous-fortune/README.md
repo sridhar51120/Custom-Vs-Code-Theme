@@ -1,6 +1,6 @@
 # My Custom VS Code Theme
 
-<img src="https://github.com/sridhar51120/VS-Code/blob/main/customTheme.png" width="100px" height="100px" alt="Custom Vs code Theme - luminous-fortune">
+<img src="https://github.com/sridhar51120/VS-Code/blob/main/customTheme.png" width="500" height="500" alt="Custom Vs code Theme - luminous-fortune">
 
 ## Description
 
