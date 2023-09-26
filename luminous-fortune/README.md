@@ -18,7 +18,7 @@ The luminous-fortune theme is a visually striking and out-of-this-world custom t
 1. Open Visual Studio Code.
 2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
 3. Search for "My Custom Theme" in the Extensions view search box.
-4. Click the Install button for the "My Custom Theme" extension.
+4. Click the Install button for the "luminous-fortune" extension.
 5. Once installed, click the gear icon in the lower-right corner of the window to open the settings (or press `Ctrl` + `,`).
 6. In the settings, select "Color Theme" from the left sidebar.
 7. Choose "luminous-fortune" from the dropdown list.
