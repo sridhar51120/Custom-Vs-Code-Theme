@@ -1,10 +1,10 @@
-# Luminous Fortune - VS Code Theme
+# ``Luminous Fortune ``- VS Code Theme
 
 <img src="https://github.com/sridhar51120/VS-Code/blob/main/customTheme.png" width="1000" height="700" alt="Custom Vs code Theme - luminous-fortune">
 
 ## Description
 
-The luminous-fortune theme is a visually striking and out-of-this-world custom theme for Visual Studio Code. It's designed to provide an immersive coding experience that takes you on a journey through the luminous-fortune while you write code.
+** The ``luminous-fortune`` theme is a visually striking and out-of-this-world custom theme for Visual Studio Code. It's designed to provide an immersive coding experience that takes you on a journey through the luminous-fortune while you write code.**
 
 ## Features
 
