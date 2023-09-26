@@ -4,7 +4,7 @@
 
 ## Description
 
-** The ``luminous-fortune`` theme is a visually striking and out-of-this-world custom theme for Visual Studio Code. It's designed to provide an immersive coding experience that takes you on a journey through the luminous-fortune while you write code.**
+<string> The <b>luminous-fortune</b> theme is a visually striking and out-of-this-world custom theme for Visual Studio Code. It's designed to provide an immersive coding experience that takes you on a journey through the luminous-fortune while you write code.</strong>
 
 ## Features
 
@@ -18,10 +18,10 @@
 1. Open Visual Studio Code.
 2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
 3. Search for "My Custom Theme" in the Extensions view search box.
-4. Click the Install button for the "luminous-fortune" extension.
+4. Click the Install button for the `uminous-fortune` extension.
 5. Once installed, click the gear icon in the lower-right corner of the window to open the settings (or press `Ctrl` + `,`).
 6. In the settings, select "Color Theme" from the left sidebar.
-7. Choose "luminous-fortune" from the dropdown list.
+7. Choose `luminous-fortune` from the dropdown list.
 
 ## Customization
 
