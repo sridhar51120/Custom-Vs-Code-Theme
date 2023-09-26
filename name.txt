@@ -1,0 +1,10 @@
+Luminous Fortune
+
+The luminous-fortune theme is a visually striking and out-of-this-world custom theme for Visual Studio Code. It's designed to provide an immersive coding experience that takes you on a journey through the luminous-fortune while you write code.
+
+coolors.co/palettes/trending --> Trending color paletes
+coder-coder.com  --> 
+hexcolor.co -->  image to color palate generator
+
+
+Azure marketPlace Project name --> luminous-fortune

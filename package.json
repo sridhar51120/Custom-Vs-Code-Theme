@@ -2,6 +2,7 @@
   "dependencies": {
     "generator-code": "^1.7.8",
     "lodash": "^4.17.21",
+    "vsce": "^2.15.0",
     "yo": "^1.4.5"
   }
 }
