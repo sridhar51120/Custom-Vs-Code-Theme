@@ -1,4 +1,4 @@
-# My Custom VS Code Theme
+# Luminous Fortune - VS Code Theme
 
 <img src="https://github.com/sridhar51120/VS-Code/blob/main/customTheme.png" width="1000" height="700" alt="Custom Vs code Theme - luminous-fortune">
 
